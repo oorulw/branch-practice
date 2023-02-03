@@ -1,1 +1,3 @@
-print('Hello, git!')
+for _ in range(10):
+    print('Hello, git!')
+
